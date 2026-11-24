@@ -1,4 +1,4 @@
-# Hi, I'm Lucas 👋
+# Hi, I'm Lucas
 
 **Lawyer by trade, developer by necessity — and now by choice.**
 
